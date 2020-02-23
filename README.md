@@ -1,4 +1,4 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Twitter app part 2 *
 
 **Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 - [x ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-https://i.imgur.com/l4HJ6OM.gifv
+https://i.imgur.com/JRrltBt.gifv
 
 ## Notes
 
