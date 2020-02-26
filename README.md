@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 - [x ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-https://i.imgur.com/JRrltBt.gifv
+https://i.imgur.com/OigFBmL.gifv
 
 ## Notes
 
